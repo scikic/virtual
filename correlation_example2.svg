@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="correlation_example2.svg"
+   inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example2.png"
+   inkscape:export-xdpi="213.89"
+   inkscape:export-ydpi="213.89">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3768"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="437.99379"
+     inkscape:cy="679.80589"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#3f9500;fill-opacity:0.77021275;stroke:#1d7c00;stroke-opacity:1"
+       id="path2989"
+       sodipodi:cx="230.31477"
+       sodipodi:cy="382.12598"
+       sodipodi:rx="110.10663"
+       sodipodi:ry="47.72971"
+       d="m 340.4214,382.12598 a 110.10663,47.72971 0 1 1 -220.21325,0 110.10663,47.72971 0 1 1 220.21325,0 z"
+       transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,-202.74623,489.23082)"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-ydpi="213.89" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 230.31478,392.37473 0,-20.98126"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-ydpi="213.89" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2987"
+       d="m 240.80541,381.8841 -20.98126,0"
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-ydpi="213.89" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 230,381.64789 78.39286,78.39286"
+       id="path3759"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-ydpi="213.89" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4205"
+       d="M 230.46422,381.71938 196.8572,415.3264"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-ydpi="213.89" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       id="path4234"
+       sodipodi:cx="230"
+       sodipodi:cy="382.00504"
+       sodipodi:rx="110.71429"
+       sodipodi:ry="110.71429"
+       d="m 340.71429,382.00504 a 110.71429,110.71429 0 1 1 -221.42858,0 110.71429,110.71429 0 1 1 221.42858,0 z"
+       transform="matrix(1,0,0,-1,0,764.01007)" />
+    <rect
+       style="fill:none;stroke:#7b7b7b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4236"
+       width="156.78572"
+       height="156.78572"
+       x="151.78572"
+       y="-459.50504"
+       transform="scale(1,-1)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff3100;fill-opacity:1;stroke:none"
+       id="path4240"
+       sodipodi:cx="308.53848"
+       sodipodi:cy="305.0387"
+       sodipodi:rx="12.626906"
+       sodipodi:ry="12.626906"
+       d="m 321.16539,305.0387 a 12.626906,12.626906 0 1 1 -25.25381,0 12.626906,12.626906 0 1 1 25.25381,0 z"
+       transform="matrix(0.44845669,0,0,-0.44845669,170.17234,595.76802)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       x="115.15739"
+       y="507.88998"
+       id="text4242"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="115.15739"
+         y="507.88998"
+         id="tspan4250">With the eigenvectors of K<tspan
+   style="font-size:65%;baseline-shift:super;line-height:100%"
+   id="tspan4278">-1</tspan> facing along</tspan><tspan
+         sodipodi:role="line"
+         x="115.15739"
+         y="525.39001"
+         id="tspan4276">the [1,1] and [-1,1] axes.</tspan><tspan
+         sodipodi:role="line"
+         x="115.15739"
+         y="542.89001"
+         id="tspan4274">y = [1,-1] will be transformed to y'=[1,-1]</tspan></text>
+    <path
+       inkscape:export-ydpi="213.89"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       transform="matrix(0.98915918,0.14684722,0.14684722,-0.98915918,248.41828,726.04642)"
+       d="m 340.4214,382.12598 a 110.10663,47.72971 0 1 1 -220.21325,0 110.10663,47.72971 0 1 1 220.21325,0 z"
+       sodipodi:ry="47.72971"
+       sodipodi:rx="110.10663"
+       sodipodi:cy="382.12598"
+       sodipodi:cx="230.31477"
+       id="path4254"
+       style="fill:#3f9500;fill-opacity:0.77021275;stroke:#1d7c00;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="213.89"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       inkscape:connector-curvature="0"
+       id="path4256"
+       d="m 532.35039,392.37473 0,-20.98126"
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="213.89"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 542.84102,381.8841 -20.98126,0"
+       id="path4258"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="213.89"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       inkscape:connector-curvature="0"
+       id="path4260"
+       d="m 531.95685,381.88184 109.66239,16.28011"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:export-ydpi="213.89"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 532.37233,381.66277 -6.97928,47.01227"
+       id="path4262"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(1,0,0,-1,302.03561,764.01007)"
+       d="m 340.71429,382.00504 a 110.71429,110.71429 0 1 1 -221.42858,0 110.71429,110.71429 0 1 1 221.42858,0 z"
+       sodipodi:ry="110.71429"
+       sodipodi:rx="110.71429"
+       sodipodi:cy="382.00504"
+       sodipodi:cx="230"
+       id="path4264"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <rect
+       transform="scale(1,-1)"
+       y="-459.50504"
+       x="453.82132"
+       height="156.78572"
+       width="156.78572"
+       id="rect4266"
+       style="fill:none;stroke:#7b7b7b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4280"
+       y="507.88998"
+       x="413.01453"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       xml:space="preserve"><tspan
+         id="tspan4286"
+         y="507.88998"
+         x="413.01453"
+         sodipodi:role="line">With the eigenvectors of K<tspan
+   id="tspan4284"
+   style="font-size:65.00091553000000033%;baseline-shift:super;line-height:100%">-1 </tspan>in different directions.</tspan><tspan
+         id="tspan4288"
+         y="525.39001"
+         x="413.01453"
+         sodipodi:role="line">y = [1,-1] will be transformed to y'=[1.1,-0.3]</tspan><tspan
+         y="542.89001"
+         x="413.01453"
+         sodipodi:role="line"
+         id="tspan4492" /><tspan
+         y="560.39001"
+         x="413.01453"
+         sodipodi:role="line"
+         id="tspan4494">Note that 1.1 is now greater than the largest</tspan><tspan
+         y="577.89001"
+         x="413.01453"
+         sodipodi:role="line"
+         id="tspan4496">eigenvalue (1)</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4294"
+       d="m 620.99237,395.33399 -9.2186,62.09624"
+       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.4,1.4;marker-end:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-ydpi="213.89" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff3100;fill-opacity:0.51914894;stroke:#ff3100;stroke-opacity:1"
+       id="path4478"
+       sodipodi:cx="308.53848"
+       sodipodi:cy="305.0387"
+       sodipodi:rx="12.626906"
+       sodipodi:ry="12.626906"
+       d="m 321.16539,305.0387 a 12.626906,12.626906 0 1 1 -25.25381,0 12.626906,12.626906 0 1 1 25.25381,0 z"
+       transform="matrix(0.44845669,0,0,-0.44845669,479.22453,555.57862)" />
+    <path
+       inkscape:export-ydpi="213.89"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.4,1.4;stroke-dashoffset:0;marker-end:none"
+       d="m 523.68459,446.28656 86.11124,12.78378"
+       id="path4480"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="213.89"
+       inkscape:export-xdpi="213.89"
+       inkscape:export-filename="/home/lionfish/Documents/Research/virtual/correlation_example1.png"
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.4, 1.4;stroke-dashoffset:0;marker-end:none"
+       d="m 526.52808,418.3697 -9.2186,62.09624"
+       id="path4482"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="matrix(0.44845669,0,0,-0.44845669,472.20795,595.76802)"
+       d="m 321.16539,305.0387 a 12.626906,12.626906 0 1 1 -25.25381,0 12.626906,12.626906 0 1 1 25.25381,0 z"
+       sodipodi:ry="12.626906"
+       sodipodi:rx="12.626906"
+       sodipodi:cy="305.0387"
+       sodipodi:cx="308.53848"
+       id="path4268"
+       style="fill:#ff3100;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       x="623.18073"
+       y="412.22931"
+       id="text4484"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         x="623.18073"
+         y="412.22931"
+         id="tspan4488">y'</tspan></text>
+  </g>
+</svg>
